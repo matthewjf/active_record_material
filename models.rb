@@ -1,0 +1,7 @@
+require_relative 'model/questions_database'
+require_relative 'model/model'
+require_relative 'model/user'
+require_relative 'model/reply'
+require_relative 'model/question'
+require_relative 'model/question_follow'
+require_relative 'model/question_like'
